@@ -16,6 +16,7 @@
     "clipboard": "^2.0.11",
     "dompurify": "^3.1.6",
     "primereact": "^10.6.5",
+    "query-string": "^9.1.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.2",
     "react-chartjs-2": "^5.2.0",
