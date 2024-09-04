@@ -1,0 +1,9 @@
+.back {
+  background: linear-gradient(to bottom right, #fb6f2e, #0f455d);
+}
+h4 {
+    background: linear-gradient(to bottom right, #fb6f2e, #0f455d);
+    -webkit-background-clip: text; /* For Chrome and Safari */
+    -webkit-text-fill-color: transparent; /* For Chrome and Safari */
+    color: transparent; /* For other browsers */
+  }
